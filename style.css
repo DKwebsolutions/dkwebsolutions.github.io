@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+/*	border: 1px solid green;*/
+    
+	width: 100%;
+	height: 100px;
+/*    position: absolute;*/
+/*    top: 0;*/
+      
+}
+    
+
+
+#logo{
+    width: 150px;
+    height: 100px;
+    
+}
+
+.nav-bar{
+/*    text-align: center;*/
+/*    position:relative;*/
+/*    top: -70px;*/
+    
+}
+
+.nav-bar li{
+/*      position: relative;*/
+/*      display: inline-block;*/
+/*    list-style: none;*/
+        
+    
+}
+
+.slider{
+        
+        height: 400px;
+}
+      
+
+a{
+    font-family: 'Oswald', sans-sarif;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+
+
